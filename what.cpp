@@ -25,5 +25,10 @@ int main()
 {
 	average();
 	
+	
+	
+	
+	
+	
 	return 0;
 }
