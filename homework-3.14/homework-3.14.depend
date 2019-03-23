@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553177380 source:d:\c\≤‚ ‘\homework-3.14\main.cpp
+	<iostream>
+
+1553178949 source:d:\c\≤‚ ‘\homework-3.14\employee.cpp
+	<iostream>
+	<string>
+	"employee.h"
+
+1553178975 d:\c\≤‚ ‘\homework-3.14\employee.h
+	<iostream>
+	<string>
+
