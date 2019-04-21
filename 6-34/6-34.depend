@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555803593 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\6-34\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<stdio.h>
+
