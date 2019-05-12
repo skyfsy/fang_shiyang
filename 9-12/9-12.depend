@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557654328 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\9-12\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+
