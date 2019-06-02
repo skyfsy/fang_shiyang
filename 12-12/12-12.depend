@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1559458521 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1559452077 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1559456841 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\include\employee.h
+	<string>
+
+1559455111 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\src\salariedemployee.cpp
+	"SalariedEmployee.h"
+	<iostream>
+	<stdexcept>
+
+1559456709 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\include\salariedemployee.h
+	<Employee.h>
+
+1559457041 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\src\commissionemployee.cpp
+	"CommissionEmployee.h"
+	<iostream>
+	<stdexcept>
+
+1559458002 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\include\commissionemployee.h
+	<Employee.h>
+
+1559458662 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\src\basepluscommissionemployee.cpp
+	"BasePlusCommissionEmployee.h"
+	<stdexcept>
+	<iostream>
+
+1559456157 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-12\include\basepluscommissionemployee.h
+	<CommissionEmployee.h>
+	<iostream>
+

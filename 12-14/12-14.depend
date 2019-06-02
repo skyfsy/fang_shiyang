@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1559464210 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-14\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
+1559464094 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-14\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1559464094 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-14\include\account.h
+
+1559464253 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-14\include\savingsaccount.h
+	"Account.h"
+
+1559464253 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-14\include\checkingaccount.h
+	"Account.h"
+

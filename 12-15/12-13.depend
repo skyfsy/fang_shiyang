@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1559462619 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\main.cpp
+	<iostream>
+	<vector>
+	"HourlyWorker.h"
+	"PieceWorker.h"
+
+1559459482 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1559459442 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\include\employee.h
+	<string>
+
+1559462792 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\src\pieceworker.cpp
+	"PieceWorker.h"
+	<iostream>
+
+1559460935 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\include\pieceworker.h
+	"Employee.h"
+
+1559462124 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\include\hourlyworker.h
+	<Employee.h>
+
+1559462816 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-13\src\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iostream>
+
+1559462936 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\main.cpp
+	<iostream>
+	<vector>
+	"HourlyWorker.h"
+	"PieceWorker.h"
+
+1559462124 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\include\hourlyworker.h
+	<Employee.h>
+
+1559459442 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\include\employee.h
+	<string>
+
+1559460935 c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\include\pieceworker.h
+	"Employee.h"
+
+1559459482 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1559462816 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\src\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iostream>
+
+1559462792 source:c:\users\dell\appdata\local\atlassian\sourcetree\git_local\fang_shiyang\12-15\src\pieceworker.cpp
+	"PieceWorker.h"
+	<iostream>
+
